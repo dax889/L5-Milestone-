@@ -1,21 +1,4 @@
 
-
-Yash1943
-/
-L5-Milstone
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-L5-Milstone/models/todo.js
-@Yash1943
-Yash1943 first commit
- 1 contributor
-104 lines (96 sloc)  2.42 KB
 // models/todo.js
 "use strict";
 const { Model, Op } = require("sequelize");
